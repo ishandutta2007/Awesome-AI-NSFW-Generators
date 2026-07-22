@@ -50,19 +50,19 @@ NSFW AI generators create explicit images, videos, characters, and interactive c
 ## 💻 Open-Source & Local Alternatives (Primary Emphasis)
 Run **entirely on your hardware** — full privacy, unlimited generations, highly customizable via models/LoRAs from Civitai. No subscriptions, no filters.<grok-card data-id="e6fdc3" data-type="citation_card" data-plain-type="" ></grok-card>
 
-### Automatic1111 Stable Diffusion WebUI (Forge fork recommended)
-Most popular and versatile UI.<grok-card data-id="eb8ca6" data-type="citation_card" data-plain-type="" ></grok-card>
-- **Key Features**: txt2img, img2img, inpainting, ControlNet, massive extension ecosystem.
-- **Strengths**: Huge NSFW community/models; easy to extend.
-- **GitHub**: lllyasviel/stable-diffusion-webui-forge
-
-### ComfyUI
+### ComfyUI <a href="https://github.com/comfyanonymous/ComfyUI/stargazers"><img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white" alt="stars"/></a>
 Node-based powerhouse for custom workflows and latest models (Flux support).<grok-card data-id="f4a9bb" data-type="citation_card" data-plain-type="" ></grok-card>
 - **Key Features**: Advanced pipelines, batch processing, video tools.
 - **Strengths**: Maximum control; bleeding-edge.
 - **Best For**: Power users.
 
-### Fooocus / RuinedFooocus
+### Automatic1111 Stable Diffusion WebUI (Forge fork recommended) <a href="https://github.com/lllyasviel/stable-diffusion-webui-forge/stargazers"><img src="https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=social&color=white" alt="stars"/></a>
+Most popular and versatile UI.<grok-card data-id="eb8ca6" data-type="citation_card" data-plain-type="" ></grok-card>
+- **Key Features**: txt2img, img2img, inpainting, ControlNet, massive extension ecosystem.
+- **Strengths**: Huge NSFW community/models; easy to extend.
+- **GitHub**: lllyasviel/stable-diffusion-webui-forge
+
+### Fooocus / RuinedFooocus <a href="https://github.com/runew0lf/RuinedFooocus/stargazers"><img src="https://img.shields.io/github/stars/runew0lf/RuinedFooocus?style=social&color=white" alt="stars"/></a>
 Simplest Midjourney-style interface. RuinedFooocus ships NSFW-ready with no safety filter.<grok-card data-id="d5bb67" data-type="citation_card" data-plain-type="" ></grok-card>
 - **Key Features**: One-click generation, great for beginners.
 - **GitHub**: runew0lf/RuinedFooocus
