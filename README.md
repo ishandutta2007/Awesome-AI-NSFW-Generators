@@ -9,7 +9,7 @@
 
 *Generated: July 2026* | 18+ Only | Use responsibly.
 
-## Table of Contents
+## 📑 Table of Contents
 - [Overview](#overview)
 - [Proprietary/Hosted Platforms](#proprietary-hosted-platforms)
 - [Open-Source & Local Alternatives](#open-source--local-alternatives)
@@ -17,7 +17,7 @@
 - [Setup Guides & Resources](#setup-guides--resources)
 - [Legal & Ethical Notes](#legal--ethical-notes)
 
-## Overview
+## 🔍 Overview
 NSFW AI generators create explicit images, videos, characters, and interactive content without mainstream filters. Proprietary services provide convenience and polished experiences, while **open-source tools** offer complete privacy (local execution), zero costs after setup, full customization, and no censorship.<grok-card data-id="3b21e4" data-type="citation_card" data-plain-type="" ></grok-card>
 
 **2026 Trends**:
@@ -25,7 +25,7 @@ NSFW AI generators create explicit images, videos, characters, and interactive c
 - Local Stable Diffusion ecosystem (Forge, ComfyUI, etc.) dominates for serious creators.
 - Models like Pony Diffusion V6 XL (stylized) and Juggernaut XL (realistic) lead NSFW.
 
-## Proprietary/Hosted Platforms/SaaS
+## 🏢 Proprietary/Hosted Platforms/SaaS
 
 ### Candy AI
 AI companion platform with chat, image/video generation, and voice interactions. Strong on personalized virtual girlfriends.<grok-card data-id="424eea" data-type="citation_card" data-plain-type="" ></grok-card>
@@ -72,7 +72,7 @@ Specialized uncensored tools focused on raw, explicit nude/adult generation.
 
 **Others**: OurDream.AI, etc.
 
-## Open-Source & Local Alternatives (Primary Emphasis)
+## 💻 Open-Source & Local Alternatives (Primary Emphasis)
 Run **entirely on your hardware** — full privacy, unlimited generations, highly customizable via models/LoRAs from Civitai. No subscriptions, no filters.<grok-card data-id="e6fdc3" data-type="citation_card" data-plain-type="" ></grok-card>
 
 ### Automatic1111 Stable Diffusion WebUI (Forge fork recommended)
@@ -105,7 +105,7 @@ Simplest Midjourney-style interface. RuinedFooocus ships NSFW-ready with no safe
 **Pros**: Complete ownership, offline, modifiable, cost-free after hardware.
 **Cons**: Needs GPU (6–12GB+ VRAM ideal); initial setup time.
 
-## Comparison Table
+## 📊 Comparison Table
 
 | Tool                  | Type       | Pricing | Company Size              | Free Tier Limit | Image Quality | Video      | Privacy    | Ease of Use | Best For                     |
 |-----------------------|------------|----------------------|--------------|-----------------|---------------|------------|------------|-------------|------------------------------|
@@ -119,7 +119,7 @@ Simplest Midjourney-style interface. RuinedFooocus ships NSFW-ready with no safe
 | **ComfyUI** <a href="https://github.com/comfyanonymous/ComfyUI/stargazers"><img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white" alt="stars"/></a> | **Local** | **Free**            | N/A | **N/A**         | **Excellent**| Strong    | **Full**  | Medium     | **Advanced/Custom**         |
 | **Forge (A1111)** <a href="https://github.com/lllyasviel/stable-diffusion-webui-forge/stargazers"><img src="https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=social&color=white" alt="stars"/></a> | **Local** | **Free**            | N/A | **N/A**         | **Excellent**| Extensions| **Full**  | Medium-High| **Versatile Daily Driver** |
 | **RuinedFooocus** <a href="https://github.com/runew0lf/RuinedFooocus/stargazers"><img src="https://img.shields.io/github/stars/runew0lf/RuinedFooocus?style=social&color=white" alt="stars"/></a> | **Local** | **Free**            | N/A | **N/A**         | High         | Limited   | **Full**  | **Very High** | **Quick & Simple**       |
-## Setup Guides & Resources
+## 🛠️ Setup Guides & Resources
 1. **Hardware**: NVIDIA GPU recommended (RTX 3060+).
 2. **Models**: [Civitai.com](https://civitai.com) — Search NSFW/Pony/Juggernaut.
 3. **Install**:
@@ -128,7 +128,7 @@ Simplest Midjourney-style interface. RuinedFooocus ships NSFW-ready with no safe
    - Pinokio: One-click browser installer for many tools.
 4. **Prompt Tips**: Detailed positive/negative prompts + LoRAs for consistency.
 
-## Legal & Ethical Notes
+## ⚖️ Legal & Ethical Notes
 - All content must involve consenting adults (18+).
 - Respect laws in your jurisdiction regarding generated material.
 - Open-source tools are ideal for private, personal use.
