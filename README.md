@@ -21,7 +21,7 @@ NSFW AI generators create explicit images, videos, characters, and interactive c
 - Local Stable Diffusion ecosystem (Forge, ComfyUI, etc.) dominates for serious creators.
 - Models like Pony Diffusion V6 XL (stylized) and Juggernaut XL (realistic) lead NSFW.
 
-## Proprietary/Hosted Platforms
+## Proprietary/Hosted Platforms/SaaS
 
 ### Candy AI
 AI companion platform with chat, image/video generation, and voice interactions. Strong on personalized virtual girlfriends.<grok-card data-id="424eea" data-type="citation_card" data-plain-type="" ></grok-card>
