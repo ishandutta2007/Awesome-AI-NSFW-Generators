@@ -103,17 +103,18 @@ Simplest Midjourney-style interface. RuinedFooocus ships NSFW-ready with no safe
 
 ## Comparison Table
 
-| Tool                  | Type       | Pricing              | Image Quality | Video      | Privacy    | Ease of Use | Best For                     |
-|-----------------------|------------|----------------------|---------------|------------|------------|-------------|------------------------------|
-| Candy AI             | Hosted    | $6–13+/mo           | High         | Yes       | Good      | Very High  | Companions                  |
-| SoulGen              | Hosted    | $13+/mo             | High         | Limited   | Good      | High       | Characters                  |
-| Promptchan AI        | Hosted    | Freemium            | Excellent    | Yes       | Good      | High       | Anime/Girlfriends           |
-| ZenCreator           | Hosted    | ~$20+/mo            | Top          | Strong    | High      | High       | Video + Pro Images          |
-| WildOwl.ai           | Hosted    | Pay-as-you-go       | Top          | Strong    | High      | High       | Flexible Creation           |
-| **Forge (A1111)**    | **Local** | **Free**            | **Excellent**| Extensions| **Full**  | Medium-High| **Versatile Daily Driver** |
-| **ComfyUI**          | **Local** | **Free**            | **Excellent**| Strong    | **Full**  | Medium     | **Advanced/Custom**         |
-| **RuinedFooocus**    | **Local** | **Free**            | High         | Limited   | **Full**  | **Very High** | **Quick & Simple**       |
-
+| Tool                  | Type       | Pricing | Company Size              | Free Tier Limit | Image Quality | Video      | Privacy    | Ease of Use | Best For                     |
+|-----------------------|------------|----------------------|--------------|-----------------|---------------|------------|------------|-------------|------------------------------|
+| Candy AI             | Hosted    | $6–13+/mo           | $20M | Not specified   | High         | Yes       | Good      | Very High  | Companions                  |
+| SoulGen              | Hosted    | $13+/mo             | $15M | Limited         | High         | Limited   | Good      | High       | Characters                  |
+| Seduced AI           | Hosted    | ~$25/mo             | $10M | Not specified   | High         | Limited   | High      | High       | Body fine-tuning            |
+| Kupid AI             | Hosted    | ~$9.99/mo           | $8M | Not specified   | High         | N/A       | Good      | High       | Interactive chats           |
+| Promptchan AI        | Hosted    | Freemium            | $5M | Freemium        | Excellent    | Yes       | Good      | High       | Anime/Girlfriends           |
+| ZenCreator           | Hosted    | ~$20+/mo            | $2M | Not specified   | Top          | Strong    | High      | High       | Video + Pro Images          |
+| WildOwl.ai           | Hosted    | Pay-as-you-go       | $1M | Not specified   | Top          | Strong    | High      | High       | Flexible Creation           |
+| **ComfyUI** <a href="https://github.com/comfyanonymous/ComfyUI/stargazers"><img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white" alt="stars"/></a> | **Local** | **Free**            | N/A | **N/A**         | **Excellent**| Strong    | **Full**  | Medium     | **Advanced/Custom**         |
+| **Forge (A1111)** <a href="https://github.com/lllyasviel/stable-diffusion-webui-forge/stargazers"><img src="https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=social&color=white" alt="stars"/></a> | **Local** | **Free**            | N/A | **N/A**         | **Excellent**| Extensions| **Full**  | Medium-High| **Versatile Daily Driver** |
+| **RuinedFooocus** <a href="https://github.com/runew0lf/RuinedFooocus/stargazers"><img src="https://img.shields.io/github/stars/runew0lf/RuinedFooocus?style=social&color=white" alt="stars"/></a> | **Local** | **Free**            | N/A | **N/A**         | High         | Limited   | **Full**  | **Very High** | **Quick & Simple**       |
 ## Setup Guides & Resources
 1. **Hardware**: NVIDIA GPU recommended (RTX 3060+).
 2. **Models**: [Civitai.com](https://civitai.com) — Search NSFW/Pony/Juggernaut.
