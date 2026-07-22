@@ -1,4 +1,8 @@
 # Awesome-AI-NSFW-Generators
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI NSFW Generators Banner">
+</p>
+
 ## Top AI NSFW Generators & Open-Source Alternatives (2026)
 
 **Comprehensive Guide to Leading NSFW AI Tools** — Proprietary platforms vs. powerful open-source/local equivalents. Primary emphasis on **open-source** for privacy, unlimited use, and customization.
