@@ -18,6 +18,9 @@
 - [Legal & Ethical Notes](#legal--ethical-notes)
 
 ## 🔍 Overview
+
+> **Discover the ultimate curated list of the best AI NSFW generators, uncensored text-to-image tools, and open-source models for 2026.** Find tools like Candy AI, ComfyUI, Forge, and more for creating AI-generated adult content safely and privately.
+
 NSFW AI generators create explicit images, videos, characters, and interactive content without mainstream filters. Proprietary services provide convenience and polished experiences, while **open-source tools** offer complete privacy (local execution), zero costs after setup, full customization, and no censorship.<grok-card data-id="3b21e4" data-type="citation_card" data-plain-type="" ></grok-card>
 
 **2026 Trends**:
