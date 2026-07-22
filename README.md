@@ -34,48 +34,16 @@ NSFW AI generators create explicit images, videos, characters, and interactive c
 
 ## 🏢 Proprietary/Hosted Platforms/SaaS
 
-### Candy AI
-AI companion platform with chat, image/video generation, and voice interactions. Strong on personalized virtual girlfriends.<grok-card data-id="424eea" data-type="citation_card" data-plain-type="" ></grok-card>
-- **Pricing**: Starts ~$5.99–$12.99/mo (annual discounts); tokens for extras.
-- **Key Features**: Immersive storytelling, character customization.
-- **Best For**: Emotional + visual companions.
-
-### SoulGen
-Character-focused NSFW image generator with chat capabilities. Balanced anime/photorealistic output.<grok-card data-id="9afad7" data-type="citation_card" data-plain-type="" ></grok-card>
-- **Pricing**: ~$12.99/mo Pro; limited free tier.
-- **Key Features**: High consistency, video support in newer versions.
-- **Best For**: Custom character creation.
-
-### Kupid AI
-Competitive AI companion with strong personalization and voice.<grok-card data-id="18aa57" data-type="citation_card" data-plain-type="" ></grok-card>
-- **Pricing**: Starts ~$9.99/mo.
-- **Key Features**: Memory retention, interactive chats.
-
-### Promptchan AI
-Specializes in AI girlfriends, custom characters, images, and short videos. Excellent prompt control.<grok-card data-id="9c8194" data-type="citation_card" data-plain-type="" ></grok-card>
-- **Pricing**: Freemium model.
-- **Key Features**: Anime/hentai excellence, community vibes.
-- **Best For**: Waifu-style creation.
-
-### ZenCreator
-Unrestricted NSFW image & video generator (text-to-video, image-to-video, face swap with hair, up to 4K). High privacy focus.<grok-card data-id="17682f" data-type="citation_card" data-plain-type="" ></grok-card>
-- **Pricing**: ~$19.99/mo starter.
-- **Key Features**: 100% NSFW pass rate, fast generation.
-- **Best For**: Professional adult content.
-
-### WildOwl.ai
-Top unrestricted platform for images, video, editing, and permissive workflows.<grok-card data-id="2860c8" data-type="citation_card" data-plain-type="" ></grok-card>
-- **Pricing**: Pay-as-you-go.
-- **Key Features**: Leading models, creator-friendly.
-- **Best For**: Flexible creative workflows.
-
-### Seduced AI
-High customization for detailed adult imagery and animations.<grok-card data-id="b95ec0" data-type="citation_card" data-plain-type="" ></grok-card>
-- **Pricing**: Starts ~$25/mo.
-- **Key Features**: Body/expression fine-tuning.
-
-### RawNSFW Pro & Nakedly AI
-Specialized uncensored tools focused on raw, explicit nude/adult generation.
+| Platform | Description | Company Size (Valuation/Revenue) | Pricing | Free Tier Limit | Key Features | Best For |
+|----------|-------------|----------------------------------|---------|-----------------|--------------|----------|
+| **Candy AI** | AI companion platform with chat, image/video generation, and voice interactions.<grok-card data-id="424eea" data-type="citation_card" data-plain-type="" ></grok-card> | ~$20M | Starts ~$5.99–$12.99/mo (annual discounts) | Not specified | Immersive storytelling, character customization. | Emotional + visual companions. |
+| **SoulGen** | Character-focused NSFW image generator with chat capabilities.<grok-card data-id="9afad7" data-type="citation_card" data-plain-type="" ></grok-card> | ~$15M | ~$12.99/mo Pro | Limited free tier | High consistency, video support in newer versions. | Custom character creation. |
+| **Seduced AI** | High customization for detailed adult imagery and animations.<grok-card data-id="b95ec0" data-type="citation_card" data-plain-type="" ></grok-card> | ~$10M | Starts ~$25/mo | Not specified | Body/expression fine-tuning. | N/A |
+| **Kupid AI** | Competitive AI companion with strong personalization and voice.<grok-card data-id="18aa57" data-type="citation_card" data-plain-type="" ></grok-card> | ~$8M | Starts ~$9.99/mo | Not specified | Memory retention, interactive chats. | N/A |
+| **Promptchan AI** | Specializes in AI girlfriends, custom characters, images, and short videos.<grok-card data-id="9c8194" data-type="citation_card" data-plain-type="" ></grok-card> | ~$5M | Freemium model | Freemium | Anime/hentai excellence, community vibes. | Waifu-style creation. |
+| **ZenCreator** | Unrestricted NSFW image & video generator (text-to-video, image-to-video, face swap with hair, up to 4K).<grok-card data-id="17682f" data-type="citation_card" data-plain-type="" ></grok-card> | ~$2M | ~$19.99/mo starter | Not specified | 100% NSFW pass rate, fast generation. | Professional adult content. |
+| **WildOwl.ai** | Top unrestricted platform for images, video, editing, and permissive workflows.<grok-card data-id="2860c8" data-type="citation_card" data-plain-type="" ></grok-card> | ~$1M | Pay-as-you-go | Not specified | Leading models, creator-friendly. | Flexible creative workflows. |
+| **RawNSFW Pro & Nakedly AI** | Specialized uncensored tools focused on raw, explicit nude/adult generation. | Unknown | N/A | N/A | N/A | N/A |
 
 **Others**: OurDream.AI, etc.
 
